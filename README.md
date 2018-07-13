@@ -1,2 +1,6 @@
 # hello-world
-Just to get started with Github
+
+Hi Github
+
+I am here today to just explore you and create a repository.
+Let's get going!!!
